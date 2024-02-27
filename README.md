@@ -29,7 +29,7 @@ c. Liste
   1. creare una lista di 5 numeri interi
   2. creare una lista di 5 numeri decimali
   3. creare una lista di 5 stringhe
-  4. creare una lista di come unione di due liste
+  4. creare una lista come unione di due liste
   5. creare una lista formata dai primi e dagli ultimi elementi di altre 4 liste e stampare anche la lunghezza della lista risultante
   6. aggiungere un elemento ad una lista
   7. togliere un elemento da una lista
