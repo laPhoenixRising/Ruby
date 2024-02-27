@@ -56,3 +56,14 @@ e. Metodi: def
 f. Controlli condizionali: if-then-else
 g. Controlli condizionali: case
 h. Classi
+i. Metodi
+  1. Crea un metodo che accetta un numero come parametro e restituisce vero se il numero è pari, falso se è dispari
+  2. Crea un metodo che accetta un numero come parametro e restituisce vero se il numero è dispari, falso se è pari
+  3. Crea un metodo che, data una lista di numeri, restituisce una lista con i soli numeri positivi
+  4. Crea un metodo che, data una lista di numeri, restituisce una lista con i soli numeri negativi
+  5. Crea un metodo che, data una lista di numeri, restituisce una lista con i soli numeri minori o uguali a 10 e maggiori di -1
+  6. Ordinare una lista di numeri usando sort
+  7. Ordinare una lista di numeri usando sort_by
+  8. Ordinare una lista di stringhe sulla base della loro lunghezza
+
+  Lista di prova: [3, 7, 1, 9, -2, 23, 12, 0, -5]
