@@ -66,4 +66,4 @@ i. Metodi
   7. Ordinare una lista di numeri usando sort_by
   8. Ordinare una lista di stringhe sulla base della loro lunghezza
 
-  Lista di prova: [3, 7, 1, 9, -2, 23, 12, 0, -5]
+Lista di prova: [3, 7, 1, 9, -2, 23, 12, 0, -5]
