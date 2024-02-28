@@ -62,6 +62,8 @@ i. Metodi
   6. Ordinare una lista di numeri usando sort
   7. Ordinare una lista di numeri usando sort_by
   8. Ordinare una lista di stringhe sulla base della loro lunghezza
+
+
 f. Controlli condizionali: if-then-else
   1. crea un metodo che accetta un numero come parametro, lo moltiplica per 2 e stampa a schermo un messaggio solo se il risultato è maggiore di 10
   2. crea un metodo che accetta due numeri come parametri, li moltiplica tra di loro e stampa a schermo un messaggio se il risultato è maggiore di 30, altrimenti stampa un altro messaggio
@@ -114,5 +116,7 @@ l. blocchi
   17. data una stringa contenente soli "0" e "1", ad esempio "0101010101000011101011110" e un hash `{ zero: 0, uno: 0 }`, calcolare nell'hash quanti 1 e quanti 0 sono presenti nella stringa
   18 data una stringa di caratteri alfanumerici, ad esempio "hdsipnye28713128e2u1390dm2u2n1ed21cv", calcolare in un hash la frequenza di ogni carattere
   19. data una stringa, verificare se la stringa è un palindromo (ad esempio: "anna", "bob", "tenet")
+
+
 g. Controlli condizionali: case
 h. Classi
