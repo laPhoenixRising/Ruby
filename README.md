@@ -120,8 +120,8 @@ richiedere all'utente di inserire il valore di una pesata, leggere il contenuto 
 ## l. blocchi
 
 1. eseguire `n.times { }`, dato `n` un numero intero e, dentro il blocco, stampare a schermo un saluto
-2. il metodo `times` accetta un blocco e il blocco può essere scritto con un parametro, ad esempio `{ |x| }`. Usare `times` come nell'esercizio precedente ma questa volta definire il parametro del blocco e stampare il valore di tale parametro
-3. Come l'esercizio precedente ma usare il parametro del blocco per stampare un saluto che contiene quel parametro
+3. il metodo `times` accetta un blocco e il blocco può essere scritto con un parametro, ad esempio `{ |x| }`. Usare `times` come nell'esercizio precedente ma questa volta definire il parametro del blocco e stampare il valore di tale parametro
+2. Come l'esercizio precedente ma usare il parametro del blocco per stampare un saluto che contiene quel parametro
 4. Il metodo `each` può essere chiamato sugli oggetti di tipo Array. Il metodo `each` accetta un blocco, analogamente a `times`. Il blocco passato a `each` accetta un parametro. Usare il metodo `each`, su una lista, passandogli un blocco dotato di parametro e stampare a schermo il contenuto del parametro
 5. Definire una lista `x`, composta da 2 liste di numeri. Usare `each` su entrambe le liste per stampare a schermo tutti i valori di cui sono composte
 6. Definire una matrice `x` (3x4), composta da 3 liste, ognuna delle quali è una lista di 4 numeri interi positivi o negativi. Stampare il contenuto di ogni elemento della matrice (stampare "+" se è positivo, "-" se è negativo)
