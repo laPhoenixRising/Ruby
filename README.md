@@ -176,6 +176,24 @@ Esempio di risultato:
 17. data una lista di stringhe calcolare il numero dei caratteri totale dei caratteri presenti nelle stringhe
 18. data una stringa contenente soli "0" e "1", ad esempio "0101010101000011101011110" e un hash `{ zero: 0, uno: 0 }`, calcolare nell'hash quanti 1 e quanti 0 sono presenti nella stringa
 19. data una stringa di caratteri alfanumerici, ad esempio "hdsipnye28713128e2u1390dm2u2n1ed21cv", calcolare in un hash la frequenza di ogni carattere
+
+Esempio semplificato:
+
+Input: "ciaomondo"
+Output:
+
+```ruby
+{
+  "c" => 1,
+  "i" => 1,
+  "a" => 1,
+  "o" => 3,
+  "m" => 1,
+  "n" => 1,
+  "d" => 1,
+}
+```
+
 20. data una stringa, verificare se la stringa è un palindromo (ad esempio: "anna", "bob", "tenet")
 
 ## g. Controlli condizionali: case
